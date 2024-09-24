@@ -1,0 +1,1 @@
+Dark Dex is a powerful tool for script developers. It provides an enhanced interface for exploring and manipulating the game’s environment, making it easier to debug, test, and modify in-game elements. Access and edit all instances in the game, view their properties in real-time.

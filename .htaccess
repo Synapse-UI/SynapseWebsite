@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^download/?$ /download/Synapse.zip [L,R=302]

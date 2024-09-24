@@ -1,0 +1,1 @@
+Infinite Yield is a powerful, universal, and FE (Filtering Enabled) admin script. It offers numerous commands to control and customize the game environment in real-time. Perfect for testing, debugging, and adding unique features.

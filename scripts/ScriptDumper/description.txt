@@ -1,0 +1,1 @@
+Script Dumper decompiles all in-game scripts, giving you access to their code. 
